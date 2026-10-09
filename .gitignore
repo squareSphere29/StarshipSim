@@ -1,0 +1,7 @@
+node_modules/
+dist/
+# Agent working files. Local only, never pushed to GitHub.
+AGENTS.md
+GLOSSARY.md
+docs/agents/
+.scratch/
